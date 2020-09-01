@@ -44,4 +44,5 @@ path = "src/lib.rs"
 [features]
 default = []
 fetch = [ "ureq", "directories", "zip", "walkdir" ]
+lambda = []
 nightly = []
